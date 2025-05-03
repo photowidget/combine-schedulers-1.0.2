@@ -9,15 +9,6 @@
         "branch" : "release/1.3.0",
         "revision" : "3ac5ec8f4ea1193e704733125720c8673963c334"
       }
-    },
-    {
-      "identity" : "xctest-dynamic-overlay",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
-      "state" : {
-        "revision" : "357ca1e5dd31f613a1d43320870ebc219386a495",
-        "version" : "1.2.2"
-      }
     }
   ],
   "version" : 3
